@@ -1,0 +1,7 @@
+vhdl work "../../jesse/tri_state.vhd"
+vhdl work "../../jesse/subtractor_8bit.vhd"
+vhdl work "../../jesse/multiplexer_2to1.vhd"
+vhdl work "../../jesse/d_ff.vhd"
+vhdl work "../../jesse/dff_register.vhd"
+vhdl work "../../jesse/comparator_8bit.vhd"
+vhdl work "../../jesse/Datapath.vhd"
